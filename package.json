@@ -1,0 +1,12 @@
+{
+  "name": "AI-with-nodejs",
+  "description": "Artificial intelligence with nodejs.",
+  "version": "0.0.1",
+  "author": "Nitesh Anand",
+  "main": "analyzer.js",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">0.10.1"
+  }
+}
