@@ -5,6 +5,7 @@
   "author": "Nitesh Anand",
   "main": "analyzer.js",
   "dependencies": {
+    "node-promise": "0.5.10"
   },
   "engines": {
     "node": ">0.10.1"
