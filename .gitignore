@@ -1,5 +1,6 @@
 *node_modules
-dictionary/apikey.js
+*apikey.js*
 .project
 .setting*
 tmp
+*~

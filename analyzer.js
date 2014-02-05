@@ -34,8 +34,9 @@ if(/define/.test(string)) {
 } else if(/weather/.test(string)) {
   parts = {
       cat: 'weather',
-      method: 'default'
+      method: 'defolt'
   };
+  string = 'TX/Round_Rock';
 } else if(/world\stime/.test(string)) {
   parts = {
       cat: 'time',
